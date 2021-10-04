@@ -1,12 +1,17 @@
-### Hi there 👋
-# console.log('Hello World!! 👋')
-Software engineer at Microsoft and **creator of Vida MRR**, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: Javascript, Typescript, Node.js, Azure, PHP and Kotlin.
+# echo "Hello World!! 👋";
+## I'm Jonathan Jimenez
+Frontend and backend developer with more than 3 years of experience in the Startup world. 
 
-You can follow me in the next sites/platforms where I constantly publish new content 😊
-- 📺 [Vida MRR Youtube channel](https://www.youtube.com/channel/UCOD6LXgeBoeiUZTsPLdG-0g)
-- 📝 [Vida MRR blog](https://www.vidamrr.com "Vida MRR Blog") but working in a new release [in beta](https://blog.vidamrr.com)
-- 👍 [Facebook](https://www.facebook.com/vidamrr "Vida MRR Blog"), 🐦[Twitter](https://www.twitter.com/vidamrr "Twitter profile"), 📷[Instagram](https://www.instagram.com/vidamrr "Instagram account") and 🎵[Tiktok](https://www.tiktok.com/@vidamrr "Tiktok profile")
-- 💼 My personal [Linkedin](https://www.vidamrr.com "Vida MRR Blog")
+**I love programming** and everything related to the internet and new technologies, creating things and helping others.
+
+Im almost **completely self-taught**, so I am going to offer a lot of my knowledge to be able to help you easily and more quickly.
+
+You can follow me in the next sites.  😊
+
+- 👍 [Facebook](https://www.facebook.com/jonysthil "Jonathan Jimenez")
+- 🐦 [Twitter](https://twitter.com/jonysthil123 "Twitter profile")
+- 📷 [Instagram](https://www.instagram.com/jonysthil "Instagram account")
+- 💼 My personal [Linkedin](https://www.linkedin.com/in/jonathan-jimenez-gamero-391255159/ "Jonathan Jimenez")
 
 
 <!--
